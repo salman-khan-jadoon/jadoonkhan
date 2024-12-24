@@ -1,0 +1,16 @@
+body{
+    font-family: Arial,  sans-serif;
+    margin: 15px;
+    padding: 10px;
+    line-height: 1.6;
+    background-color:rgb(48, 80, 80) ;
+}
+h1{
+    text-align: center;
+    background-color: hwb(197 10% 35%);
+    padding: 40auto;
+    color:whitesmoke;
+    font-size:44px;
+    font-kerning: auto;
+    line-height: 100px;
+}
